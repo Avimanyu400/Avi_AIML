@@ -1,2 +1,2 @@
 # Avi_AIML
-My GIT repository for my AIML Projects
+My GIT repository for my AIML Projects - Avimanyu Gochhayat
